@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-**MrArobazz/MrArobazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-### Hi there 👋
-
 I'm Tom and I'm 20.
 I study in France in University Of Poitiers for a Bachelor's Degree in Informatics.
 I am in my third year after learned Databases, Algorithmics, Web, Networks, Computer Architecture and OCamL, C, Java, JavaScript, PHP languages.
@@ -25,6 +9,7 @@ I made several projects during three years that you will be able to see on my pr
 ### 📫 How to reach me
 
 You can contact me on Discord : MrArobaz#9191
+
 Or on my email on the left border.
 
 ### ⚡ Fun fact
